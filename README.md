@@ -13,6 +13,4 @@
   
 ### To run the calculator, simply navigate to the directory where the script is located and run it using the Python interpreter. You will be prompted to enter your desired operation and operands, and the calculator will return the result.
 
-### Feel free to use this calculator app as a starting point for your own projects, and let me know if you have any questions or need any further assistance.
-
 ![calculator 3](https://user-images.githubusercontent.com/94692820/215517508-5f5327d0-c664-4a7b-bbac-e8fe7ffc5b23.jpg)
