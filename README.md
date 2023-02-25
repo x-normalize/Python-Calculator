@@ -1,4 +1,4 @@
-# Python-Calculato
+# Python-Calculator
 
 ![1645786898-79542](https://user-images.githubusercontent.com/94692820/215516287-8ac41070-2e65-44dd-960d-86189adf1f2a.jpg)
 
